@@ -28,9 +28,7 @@ Switch Case – Para controle das operações matemáticas.
 Se você tiver dúvidas ou sugestões, entre em contato:
 
 Email – desenvolvedorvicente@gmail.com
+
+
 Linkedin - linkedin.com/in/dev-ryan-vicente
 
-
-GitHub: github.com/021Vicente-dev
-
-LinkedIn: linkedin.com/in/ryan-vicente-22a533377
